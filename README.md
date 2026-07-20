@@ -11,5 +11,5 @@ optimized SQL queries.
 - `schema.sql` – Database schema
 - `data.sql` – Sample data
 - `analysis_queries.sql` – SQL analysis queries
-- `data/` – Source datasets
+- `.xlsx` – Source datasets
 - `screenshots/` – Query outputs and results
